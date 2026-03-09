@@ -6,6 +6,7 @@
 Jetson orin nano 8gb super
 Arduino Due
 Arduino nano
+<img width="702" height="535" alt="image" src="https://github.com/user-attachments/assets/5e7c59b5-b4ed-4d35-8dbc-bbf749eda4d5" />
 
 
 ### 사진 기능
